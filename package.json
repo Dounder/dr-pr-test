@@ -8,7 +8,7 @@
     "src"
   ],
   "repository": {
-    "url": "https://github.com/Dounder/dr-product-card.git",
+    "url": "https://github.com/Dounder/dr-pr-test.git",
     "type": "git"
   },
   "homepage": "https://github.com/Dounder",
@@ -39,16 +39,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "dr-product-card",
+  "name": "dr-pr-test",
   "author": "dcode",
-  "module": "dist/dr-product-card.esm.js",
+  "module": "dist/dr-pr-test.esm.js",
   "size-limit": [
     {
-      "path": "dist/dr-product-card.cjs.production.min.js",
+      "path": "dist/dr-pr-test.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/dr-product-card.esm.js",
+      "path": "dist/dr-pr-test.esm.js",
       "limit": "10 KB"
     }
   ],

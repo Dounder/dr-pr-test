@@ -1,4 +1,4 @@
-# DR-product-card
+# dr-pr-test
 
 Paquete de prueba de despliegue en npm
 
@@ -7,7 +7,7 @@ Paquete de prueba de despliegue en npm
 ## Ejemplo
 
 ```
-import { ProductCard, ProductImage, ProductTitle, ProductButtons } from  'dr-product-card';
+import { ProductCard, ProductImage, ProductTitle, ProductButtons } from  'dr-pr-test';
 ```
 
 ```
